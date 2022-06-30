@@ -1,0 +1,14 @@
+{
+  "name": "calculator-challenge",
+  "version": "1.0.0",
+  "description": "A website that acts as a calculator",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^28.1.2"
+  },
+  "scripts": {
+    "test": "jest --verbose --watchAll"
+  },
+  "author": "",
+  "license": "ISC"
+}
