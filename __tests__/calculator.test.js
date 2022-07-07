@@ -7,7 +7,7 @@ describe("Calculator Tests", () => {
         })
 
         test("2 plus 2 does not equal 5", () => {
-            expect(calculator.add(2, 2)).toBe(5);
+            expect(calculator.add(2, 2)).not.toBe(5);
         })
     })
 
@@ -16,8 +16,8 @@ describe("Calculator Tests", () => {
             expect(calculator.subtract(2, 2)).toBe(0);
         })
 
-        test("3 minus 5 equals -3", () => {
-            expect(calculator.subtract(3, 5)).toBe(-3);
+        test("3 minus 5 equals -2", () => {
+            expect(calculator.subtract(3, 5)).toBe(-2);
         })
     })
 

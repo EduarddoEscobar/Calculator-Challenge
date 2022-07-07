@@ -1,25 +1,27 @@
 // TODO: Finish this method to make it add 2 numbers
-function add(){
-    return null;
+function add(num1, num2){
+    return num1 + num2;
 }
 
 // TODO: Finish this method to make it subtract 2 numbers
-function subtract(){
-    return null;
+function subtract(num1, num2){
+    return num1 - num2;
 }
 
 // TODO: Finish this method to make it multiply 2 numbers
-function multiply(){
-    return null;
+function multiply(num1, num2){
+    return num1 * num2;
 }
 
 // TODO: Finish this method to make it divide 2 numbers
-function divide(){
-    return null;
+function divide(num1, num2){
+    return num1 / num2;
 }
 
 // TODO: Make a way for the js to change html
 function editTextBox(){
+    const button = document.querySelector( 'p.text.box')
+    box.textContent = addition(num1, num2)
     return null;
 }
 
