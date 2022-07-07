@@ -1,12 +1,13 @@
 # Calculator Challenge
 
 ### Install
-    $git clone git@github.com:EduarddoEscobar/Calculator-Challenge.git
-    $cd Calculator-Challenge
-    $npm i
+    git clone git@github.com:EduarddoEscobar/Calculator-Challenge.git
+    cd Calculator-Challenge
+    npm i
 
 ### Start
 * [ ] Open index.html
+* [ ] Run `npm test`
 
 ### Task
 
