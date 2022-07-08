@@ -1,25 +1,21 @@
 // TODO: Finish this method to make it add 2 numbers
-function add(num1, num2){
-    total = num1 + num2;
-    return total;
+function add(){
+    return null;
 }
 
 // TODO: Finish this method to make it subtract 2 numbers
-function subtract(num1, num2){
-    total = num1 - num2;
-    return total;
+function subtract(){
+    return null;
 }
 
 // TODO: Finish this method to make it multiply 2 numbers
-function multiply(num1, num2){
-    total = num1 * num2;
-    return total;
+function multiply(){
+    return null;
 }
 
 // TODO: Finish this method to make it divide 2 numbers
-function divide(num1, num2){
-    total = num1 / num2;
-    return total;
+function divide(){
+    return null;
 }
 
 // TODO: Make a way for the js to change html
