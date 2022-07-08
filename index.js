@@ -15,7 +15,11 @@ function multiply(num1, num2){
 
 // TODO: Finish this method to make it divide 2 numbers
 function divide(num1, num2){
-    return num1 / num2;
+    if(num2 === 0){
+        return 0;
+    }else{
+        return num1 / num2;
+    }
 }
 
 // TODO: Make a way for the js to change html

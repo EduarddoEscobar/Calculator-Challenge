@@ -40,7 +40,7 @@ describe("Calculator Tests", () => {
             expect(calculator.divide(25, 2)).toBe(12.5);
         })
 
-        test("5 times 0 equals 0", () => {
+        test("5 divide 0 equals 0", () => {
             expect(calculator.divide(5, 0)).toBe(0);
         })
     })
